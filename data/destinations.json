@@ -1,0 +1,41 @@
+[
+  {
+    "id": "goa",
+    "name": "Goa Beach Escape",
+    "country": "India",
+    "description": "Sun, sand, and serene sunsets along Goa's iconic coastline.",
+    "pricePerNight": 2500,
+    "image": "images/goa.svg",
+    "highlights": [
+      "Candolim Beach",
+      "Fort Aguada",
+      "Seafood shacks"
+    ]
+  },
+  {
+    "id": "manali",
+    "name": "Manali Mountain Retreat",
+    "country": "India",
+    "description": "Snow-kissed peaks, pine forests, and riverside cafes.",
+    "pricePerNight": 3200,
+    "image": "images/manali.svg",
+    "highlights": [
+      "Solang Valley",
+      "Hadimba Temple",
+      "Old Manali"
+    ]
+  },
+  {
+    "id": "jaipur",
+    "name": "Jaipur Heritage Tour",
+    "country": "India",
+    "description": "Royal palaces, pink-hued lanes, and vibrant bazaars.",
+    "pricePerNight": 2800,
+    "image": "images/jaipur.svg",
+    "highlights": [
+      "Amber Fort",
+      "City Palace",
+      "Hawa Mahal"
+    ]
+  }
+]

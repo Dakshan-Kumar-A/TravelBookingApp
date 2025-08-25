@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1756101533750-6867",
+    "createdAt": "2025-08-25T05:58:53.750Z",
+    "name": "Tony stark",
+    "email": "ironman@gmail.com",
+    "phone": "85320876432",
+    "destinationId": "goa",
+    "destinationName": "Goa Beach Escape",
+    "travelers": 2,
+    "startDate": "2025-08-25",
+    "endDate": "2025-08-29",
+    "nights": 4,
+    "pricePerNight": 2500,
+    "total": 20000
+  },
+  {
+    "id": "1756104623696-9385",
+    "createdAt": "2025-08-25T06:50:23.696Z",
+    "name": "smith",
+    "email": "smith123@gmail.com",
+    "phone": "9965549001",
+    "destinationId": "manali",
+    "destinationName": "Manali Mountain Retreat",
+    "travelers": 3,
+    "startDate": "2025-08-29",
+    "endDate": "2025-08-31",
+    "nights": 2,
+    "pricePerNight": 3200,
+    "total": 19200
+  }
+]
